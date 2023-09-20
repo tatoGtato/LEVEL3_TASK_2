@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Student Portals</string>
+    <string name="name">New portal name</string>
+    <string name="url">New portal URL</string>
+    <string name="invalid">The portal is invalid</string>
+    <string name="add">ADD PORTAL</string>
+</resources>
